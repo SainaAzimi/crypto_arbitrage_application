@@ -1,0 +1,37 @@
+The results from this financial analysis in crypto_arbitrage.ipyn concluded that opportunities for profitable Bitcoin arbitrage between the two exchanges of Bitstamp and Coinbase is very slim during these periods. 
+
+Here are the findings that supports this claim:
+
+1) Analyzing the 'Close' bitcoin price on January 1st, 2018 is $13646.46 on Bitstamp and $13608.49 on Coinbase. The 'Close' bitcoin price on March 31st, 2018 is $6928.01 on Bitstamp and $6934.0 on Coinbase. Therefore, over this period of time, the price of bitcoin declined significantly which is an indicator to a very slim profitable arbitrage opportunities. 
+
+
+2) Next, we examine the summary statistics;
+
+- Bitstamp summary statistics shows: 
+    mean of 10459, 
+    standard deviation of 2315, 
+    min is 5944, 
+    max is 17234. 
+
+- Coinbase summary statistics shows:
+    mean of 10449, 
+    standard deviation of 2317,
+    min is 5882, and max is 17177. 
+    
+This tells us that on average, the dollar amount difference between both exchanges is around 10 dollars. The differences of the standard deviation, min and max are also narrow which is an indicator that the arbitrage opportunities is very slim. 
+
+
+3) In addition, when we focus our analysis on three dates such as (01-16-2018, 02-24-2018, 03-26-2018) we perform calculations for; the arbitrage spread between Bitstamp and Coinbase exchanges, the spread returns, the potential profit, in dollars, per trade, the potential arbitrage profits for each of the 3 dates, the cumulative sum for January 16th, 2018. 
+
+The results of these ratios and calculations are conclusive that profitable trades to cover the cost of transaction of 1%.  
+
+
+4) Furthermore, we can use the visualization of box plots and line plots. 3 line graphs are plotted to illustrade the trends and to see visually the differences between the exchanges. 
+
+- In the first overlayed plot (Bitstamp Prices versus Coinbase Prices) some price difference existing in the    January particularly, toward the end of the month (January 29), a few days of Coinbase is higher than Bitstamp. However, as the time period progresses, there is a decline in price and the difference between the price of the two exchanges and the difference visually disappears that is shown in the monthly plots. 
+
+- For the daily plot analysis, in general there are not that many opportunities for arbitrage because the plot are overlaying and they align with each other however, on January 16th some arbitrage opportunieis exist.
+
+- Similarly, on Febraury 24th and March 26th, the spread tightens. Such that on January 16th, the mean spread is $23; February 24th mean spread is $3, and March 26th is around $0. Clearly January is the better month for arbitrage opportunities. In February and March the spread is reduced significantly, making the possibilities of making profitable trades less likely. 
+
+In conclusion, we can see from our financial analysis that in early time of this data such as the month of January, Bitcoin was not as popular as it was in the month of March. When Bitcoin started becoming more popular everyone started to find the arbitrage and the return ended up being more minimal. 
